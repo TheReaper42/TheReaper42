@@ -18,9 +18,9 @@ Currently looking for a **Data Science / Machine Learning internship**.
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
-### 🌿 [Leaffiction](https://github.com/TheReaper42/Leaffiction)
+### [Leaffiction](https://github.com/TheReaper42/Leaffiction)
 
 Plant disease classification using **Deep Learning and Computer Vision**.
 
@@ -33,7 +33,7 @@ Plant disease classification using **Deep Learning and Computer Vision**.
 
 ---
 
-### 🧠 [multilayer-perceptron](https://github.com/TheReaper42/multilayer-perceptron)
+### [multilayer-perceptron](https://github.com/TheReaper42/multilayer-perceptron)
 
 Implementation of a **Multilayer Perceptron from scratch**.
 
@@ -47,7 +47,7 @@ Implementation of a **Multilayer Perceptron from scratch**.
 
 ---
 
-### 🐍 [Learn2Slither](https://github.com/TheReaper42/Learn2Slither)
+### [Learn2Slither](https://github.com/TheReaper42/Learn2Slither)
 
 A reinforcement learning project where an AI learns to play Snake.
 
@@ -60,7 +60,7 @@ A reinforcement learning project where an AI learns to play Snake.
 
 ---
 
-### 🎩 [dslr](https://github.com/TheReaper42/dslr)
+### [dslr](https://github.com/TheReaper42/dslr)
 
 Machine Learning project implementing **logistic regression** for classification.
 
@@ -74,7 +74,7 @@ Machine Learning project implementing **logistic regression** for classification
 
 ---
 
-### 📈 [ft_linear_regression](https://github.com/TheReaper42/ft_linear_regression)
+### [ft_linear_regression](https://github.com/TheReaper42/ft_linear_regression)
 
 Implementation of **linear regression from scratch**.
 
@@ -86,7 +86,7 @@ Implementation of **linear regression from scratch**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming
 
@@ -112,7 +112,7 @@ Implementation of **linear regression from scratch**.
 
 ---
 
-## 🎓 Education
+## Education
 
 **42 Paris**  
 Software Engineering & Computer Science  
@@ -129,17 +129,17 @@ Currently specializing in projects related to:
 
 ---
 
-## 🔬 Currently Working On
+## Currently Working On
 
-- 🌿 Computer Vision and plant disease classification
-- 🧠 Machine Learning and Deep Learning
-- 🤖 Reinforcement Learning
-- 📊 Data Science
-- 🧩 42 Paris projects
+- Computer Vision and plant disease classification
+- Machine Learning and Deep Learning
+- Reinforcement Learning
+- Data Science
+- 42 Paris projects
 
 ---
 
-## 📚 What I'm Interested In
+## What I'm Interested In
 
 - Machine Learning
 - Deep Learning
@@ -152,7 +152,7 @@ Currently specializing in projects related to:
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheReaper42-181717?style=flat&logo=github)](https://github.com/TheReaper42)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmytro%20Zolotukhin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
